@@ -3,7 +3,7 @@ import pyautogui
 
 root= TreeApp.Tk()
 
-canvas1 = TreeApp.Canvas(root, width = 300, height = 300)
+canvas1 = TreeApp.Canvas(root, width = 1080, height = 720)
 canvas1.pack()
 
 def tree():  
